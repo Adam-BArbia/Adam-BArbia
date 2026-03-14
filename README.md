@@ -1,9 +1,8 @@
-## Hi there 👋
 <div align="center">
 
 <h1>Adam Ben Arbia · <code>BAT-RI9</code> (بطريق)</h1>
 
-<sub><em>"penguin" in Arabic — you can call me BAT-RI9</em></sub>
+<sub><em>"penguin" in Arabic - you can call me BAT-RI9</em></sub>
 
 <br/><br/>
 
@@ -21,9 +20,9 @@
 
 I'm a back-end developer and intern based in Sousse, Tunisia, building real-world ERP-style automation systems.
 
-- **People first** — I believe the team matters more than the project.
-- **Work smart** — systems thinking, analytical approach, minimal waste.
-- **Community** — open source and volunteer tech work genuinely excite me.
+- **People first** - I believe the team matters more than the project.
+- **Work smart** - systems thinking, analytical approach, minimal waste.
+- **Community** - open source and volunteer tech work genuinely excite me.
 
 ---
 
@@ -34,7 +33,7 @@ I'm a back-end developer and intern based in Sousse, Tunisia, building real-worl
 - Deepening back-end and ERP workflow development expertise
 - Studying machine learning with a strong interest in mathematical theory
 - Building foundations in cyber operations and security
-- **Seeking a summer 2026 internship** — open to multiple domains
+- **Seeking a summer 2026 internship** - open to multiple domains
 
 ---
 
@@ -83,7 +82,7 @@ I'm a back-end developer and intern based in Sousse, Tunisia, building real-worl
 
 ### Scouting & Volunteering
 
-**Scouts Tunisiens — Régiment Kalla Kebira** · Sousse, Tunisia · 2011 – present
+**Scouts Tunisiens - Régiment Kalla Kebira** · Sousse, Tunisia · 2011 – present
 
 | Role | Since |
 |---|---|
@@ -92,17 +91,17 @@ I'm a back-end developer and intern based in Sousse, Tunisia, building real-worl
 | Scout Member | 2011 |
 
 - Organises leadership, social responsibility, and environmental-awareness workshops.
-- **National Ambassador — Scouts Go Solar (SGS):** trained at the Arab Regional event (July 2025).
+- **National Ambassador - Scouts Go Solar (SGS):** trained at the Arab Regional event (July 2025).
 - Co-managed SGS nationally; trained **500 scouts (ages 12–17)** on solar energy and energy conservation at the **5th National Jamboree of Libya** (August 2025).
 - Active promoter of Scouts for SDGs and Earth Tribe initiatives.
 
-**COVID-19 Volunteer Response — Scouts Tunisiens** · 2020 – 2021
+**COVID-19 Volunteer Response - Scouts Tunisiens** · 2020 – 2021
 
 - Provided logistical support and community coordination during the pandemic: awareness campaigns and aid distribution.
 
 ---
 
-## 🗣 Languages
+## �-� Languages
 
 ![Arabic](https://img.shields.io/badge/-Arabic_·_Native-12161b?style=flat-square&labelColor=0e3d78&color=1a6fc4) ![English](https://img.shields.io/badge/-English_·_Fluent-12161b?style=flat-square&labelColor=0e3d78&color=1a6fc4) ![French](https://img.shields.io/badge/-French_·_Professional-12161b?style=flat-square&labelColor=0e3d78&color=1a6fc4) ![German](https://img.shields.io/badge/-German_·_Beginner-12161b?style=flat-square&labelColor=0e3d78&color=2e3d52)
 
@@ -122,19 +121,3 @@ I'm a back-end developer and intern based in Sousse, Tunisia, building real-worl
 
 </div>
 
-
-
-<!--
-**Adam-BArbia/Adam-BArbia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
