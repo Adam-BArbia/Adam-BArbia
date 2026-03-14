@@ -101,7 +101,7 @@ I'm a back-end developer and intern based in Sousse, Tunisia, building real-worl
 
 ---
 
-## �-� Languages
+## 🗣 Languages
 
 ![Arabic](https://img.shields.io/badge/-Arabic_·_Native-12161b?style=flat-square&labelColor=0e3d78&color=1a6fc4) ![English](https://img.shields.io/badge/-English_·_Fluent-12161b?style=flat-square&labelColor=0e3d78&color=1a6fc4) ![French](https://img.shields.io/badge/-French_·_Professional-12161b?style=flat-square&labelColor=0e3d78&color=1a6fc4) ![German](https://img.shields.io/badge/-German_·_Beginner-12161b?style=flat-square&labelColor=0e3d78&color=2e3d52)
 
