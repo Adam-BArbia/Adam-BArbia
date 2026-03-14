@@ -2,7 +2,7 @@
 
 <h1>Adam Ben Arbia · <code>BAT-RI9</code> (بطريق)</h1>
 
-<sub><em>"penguin" in Arabic - you can call me BAT-RI9</em></sub>
+<sub><em>BATRI9 is "penguin" in Arabic</em></sub>
 
 <br/><br/>
 
