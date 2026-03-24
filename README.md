@@ -110,7 +110,7 @@ I'm a back-end developer and intern based in Sousse, Tunisia, building real-worl
 ## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-Adam_Ben_Arbia-1c2330?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/adam-ben-arbia/) [![Email · Uni](https://img.shields.io/badge/-University_Email-1c2330?style=flat-square&logo=gmail&logoColor=1a6fc4)](mailto:adam.benarbiia@sousse.r-iset.tn) 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="adam-ben-arbia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tn.linkedin.com/in/adam-ben-arbia?trk=profile-badge">Adam Ben Arbia</a></div>
 ---
 
 <div align="center">
